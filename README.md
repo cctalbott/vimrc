@@ -109,6 +109,15 @@ I recommend reading the docs of these plugins to understand them better. Each pl
 * [vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack): Maintains a history of previous yanks, changes and deletes
 * [vim-zenroom2](https://github.com/amix/vim-zenroom2) Remove all clutter and focus only on the essential. Similar to iA Writer or Write Room
 
+## My Plugins
+* YouCompleteMe
+* ag
+* editorconfig-vim
+* emmet-vim
+* grails-vim
+* omnisharp-vim
+* vim-devicons
+* vim-vue
 
 ## Included color schemes
 
