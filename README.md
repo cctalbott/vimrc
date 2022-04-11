@@ -1,5 +1,5 @@
 # vimrc
-my vimrc file
+my vim config
 
 ## Color and Font
 I like everforest color scheme and Fura Code font.
